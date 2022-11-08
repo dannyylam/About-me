@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Danny Lam (@dnnylm)
+- 👋 Hi, my name is Danny Lam
 - 👀 I’m interested in ...Machine learning / AI
-- 🌱 I’m currently learning ... Data Analytics + Data Science
+- 🌱 I’m currently working as ... a Data Analyst at Zylo, a SaaS Management platform company.
 - 💞️ I’m looking to collaborate on ... Data case studies
 - 📫 How to reach me ... dannylam49@yahoo.com
 
